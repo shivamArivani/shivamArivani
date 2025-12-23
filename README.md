@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam
 
-<!--
-**shivamArivani/shivamArivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer at **Arivani Technologies**  
+💻 Full Stack Developer | MERN | FastAPI | Laravel | React Native
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate **Full Stack Developer** with hands-on experience in building scalable web and mobile applications.  
+I work on both **frontend and backend systems**, focusing on clean architecture, performance, and maintainable code.
+
+Currently, I am working at **Arivani Technologies**, contributing to enterprise-level applications and APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- React.js
+- Next.js
+- Inertia.js
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
+
+### 📱 Mobile
+- React Native (RN)
+
+### ⚙️ Backend
+- Node.js (Express.js)
+- FastAPI (Python)
+- Laravel (PHP)
+
+### 🗄️ Databases
+- SQL Server
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### 🔧 Tools & Others
+- Git & GitHub
+- REST APIs
+- JWT Authentication
+- Docker (Basic)
+- Postman
+- Linux
+
+---
+
+## 🚀 What I Work On
+
+- Full stack web applications (React + Node / Laravel)
+- High-performance APIs using **FastAPI**
+- Mobile apps using **React Native**
+- Enterprise applications with **Laravel + Inertia.js**
+- Database-driven applications using **SQL Server**
+- Authentication & Authorization systems
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamArivani&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamArivani&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 Company: **Arivani Technologies**
+- 🌐 GitHub: [https://github.com/shivamArivani](https://github.com/shivamArivani)
+
+---
+
+⭐ *Always learning, always building.*
